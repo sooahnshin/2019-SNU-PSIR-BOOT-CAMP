@@ -27,3 +27,6 @@
 
 ## License
 All rights of uploaded materials are reserved for each instructor.
+
+## Sponsor
+Department of Political Science & International Relations, Seoul National University
