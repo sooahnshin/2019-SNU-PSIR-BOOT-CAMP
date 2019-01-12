@@ -30,3 +30,6 @@ All rights of uploaded materials are reserved for each instructor.
 
 ## Sponsor
 Department of Political Science & International Relations, Seoul National University
+
+## Contact
+Sooahn Shin : anne940303_at_snu.ac.kr
