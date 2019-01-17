@@ -140,7 +140,7 @@ ggplot(data=subset(empdat, `Country Code`=="KOR"), aes(x=sector, y=counts, fill=
 # function
 
 my.barplot <- function(country = "USA", year = 1991) {
-  y <- as.character(y)
+  year <- as.character(year)
   p <- ggplot(data=subset(empdat, `Country Code`==country&year==year), aes(x=sector, y=counts, fill=sex)) +
     geom_bar(stat="identity", position=position_dodge()) + 
     theme_minimal() +
