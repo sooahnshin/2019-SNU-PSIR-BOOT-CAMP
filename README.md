@@ -18,7 +18,7 @@
 | 3  | 9:30 - 12:30  | Sooahn Shin (SNU) | Tidy Data: Pre-process & Visualization | Doeun Kim | #215 |
 |    | 12:30 - 2:00  | Lunch Break |
 |    | 2:00 - 5:00 | Woojune Jung (R Korea) | Text Analysis | Doeun Kim | #215 |
-| 4  | 9:30 - 12:30  | Prof. Jong Hee Park | Introduction to Bayesian Analysis |  | #215 |
+| 4  | 9:30 - 12:30  | Prof. Jong Hee Park (SNU) | Introduction to Bayesian Analysis |  | #215 |
 |    | 12:30 - 2:00  | Lunch Break |
 |    | 2:00 - 5:00 | Prof. Taeryon Choi (Korea Univ.) | Bayesian Regression | Sung Tae An | #217 |
 | 5  | 9:30 - 12:30  | Prof. Hye Young You (NYU) | Causal Inference: Instrumental Variable | Sooahn Shin | #215 |
